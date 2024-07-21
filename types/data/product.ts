@@ -5,6 +5,6 @@ export type TProductResponse = {
 
 export type TProduct = {
     title: string
-    imgSrc: string
+    imageSrc: string
     price: number
 }
